@@ -1,5 +1,5 @@
 # Prodigy InfoTech Task 2
-![Uploading Prodigy Infotech - Tasks - Google Chrome 9_18_2024 2_33_26 AM.png…]()
+![Prodigy Infotech - Tasks - Google Chrome 9_18_2024 2_33_26 AM](https://github.com/user-attachments/assets/b158ae4b-1425-4456-a5f2-841ecf76301a)
 
 # Data Cleaning and Exploratory Data Analysis (EDA) - Titanic Dataset
 
